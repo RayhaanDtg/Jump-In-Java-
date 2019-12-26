@@ -1,0 +1,1 @@
+{"bunnies":[[{"row":3,"column":0},{"__CLASSNAME__":"jumpin.element.Bunny","__DATA__":{"id":1}}]],"foxes":[[{"row":1,"column":3},{"__CLASSNAME__":"jumpin.element.Fox","__DATA__":{"id":3,"orientation":"HORIZONTAL"}}]],"mushrooms":[[{"row":2,"column":0},{"__CLASSNAME__":"jumpin.element.Mushroom","__DATA__":{"id":2}}]]}
